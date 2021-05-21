@@ -1,13 +1,8 @@
-# Cybersecurity
-Studies on information security, Operating Systems, Programming Languages ​​and Pentest Analysis.
+### ClubHouse Clone Template - Semana JS Expert 4.0
 
-#### Softwares para Hacking e Pentest
+Seja bem vindo(a) à quarta Semana Javascript Expert.Este é o código inicial para iniciar nossa jornada.
 
-- [Wireshark](https://www.wireshark.org/) 
-- [Nmap](https://nmap.org/)
-- [Cain & Abel](http://www.oxid.it/)
-- [Metasploit](https://www.metasploit.com/)
-- [OWASP (ZAP)](https://www.owasp.org/)
+Marque esse projeto com uma estrela 🌟
 
 ## 👨🏻‍🚀 Sobre mim
 <a href="https://www.linkedin.com/in/mateus-macedo-937a32163/">
