@@ -1,8 +1,10 @@
-### ClubHouse Clone Template - Semana JS Expert 4.0🌟
+#### ClubHouse Clone Template - Semana JS Expert 4.0🌟
 
+<p align="justify">
 Projeto desenvolvimento na semana JavaScript Expert, aqui contém todas as diretrizes e todo o código desenvolvido ao logo da semana, abordando assuntos pertinentes ao desenvolvimento fronted dando engajamento ao backend também. É possível executar essa estrutura em qualquer máquina e SO desde tenha os pré-requisitos instalados, como ferramentas de desenvolvimento e todas as libs necessárias para rodar o projeto. "Fique a vontade para vizualizar, comentar ou editar o projeto", melhorias serão bem-vindas, ao longo dos meses estarei desenvolvendo outras features a fins de aumentar a gama e o alcance do projeto.
-
-## Checklist Features
+<p>
+  
+#### Checklist Features
 
 - [ ] O app deve funcionar na Web, Android e IOS
 - Login
@@ -41,7 +43,7 @@ Projeto desenvolvimento na semana JavaScript Expert, aqui contém todas as diret
           - [ ] Reinicia todas as suas chamas ativas com os usuarios da sala
           - [ ] Recebe as permissões do perfil speaker
           
-## 👨🏻‍🚀 Sobre mim
+#### 👨🏻‍🚀 Sobre mim
 <a href="https://www.linkedin.com/in/mateus-macedo-937a32163/">
  <img style="border-radius:50%" width="100px; "src="https://avatars.githubusercontent.com/u/63172367?s=460&u=11fd26ea8a7f5663d7707d7ef254e4f8bfca1b05&v=4"/>
  <p>Mateus Macedo</p>
