@@ -1,5 +1,7 @@
 ### ClubHouse Clone Template - Semana JS Expert 4.0🌟
 
+Projeto desenvolvimento na semana JavaScript Expert, aqui contém todas as diretrizes e todo o código desenvolvido ao logo da semana, abordando assuntos pertinentes ao desenvolvimento fronted dando engajamento ao backend também. É possível executar essa estrutura em qualquer máquina e SO desde tenha os pré-requisitos instalados, como ferramentas de desenvolvimento e todas as libs necessárias para rodar o projeto. "Fique a vontade para vizualizar, comentar ou editar o projeto", melhorias serão bem-vindas, ao longo dos meses estarei desenvolvendo outras features a fins de aumentar a gama e o alcance do projeto.
+
 ## Checklist Features
 
 - [ ] O app deve funcionar na Web, Android e IOS
