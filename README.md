@@ -4,7 +4,9 @@
 Projeto desenvolvimento na semana JavaScript Expert, aqui contém todas as diretrizes e todo o código desenvolvido ao logo da semana, abordando assuntos pertinentes ao desenvolvimento fronted dando engajamento ao backend também. É possível executar essa estrutura em qualquer máquina e SO desde tenha os pré-requisitos instalados, como ferramentas de desenvolvimento e todas as libs necessárias para rodar o projeto. "Fique a vontade para vizualizar, comentar ou editar o projeto", melhorias serão bem-vindas, ao longo dos meses estarei desenvolvendo outras features a fins de aumentar a gama e o alcance do projeto.
 <p>
   
+<p align="justify">
 Deixamos claro desde o início que este material é totalmente gratuíto e não pretendemos ter retorno financeiro a partir deste. Somos orientados em disseminar conhecimento, possibilitanto que o maior número de pessoas possam acessá-lo e aprender com ele. Sinta-se livre para compartilhar e divulgar este material de forma gratuíta, mas ressaltamos a **proibição** da comercialização deste material, sob a licença [_Creative Commons BY-NC-SA 3.0 BR_](https://creativecommons.org/licenses/by-nc-sa/3.0/br/).
+<p>
 
 <img src="https://mirrors.creativecommons.org/presskit/buttons/88x31/png/by-nc-sa.png" alt="" width="200">
   
