@@ -11,6 +11,8 @@ Deixamos claro desde o início que este material é totalmente gratuíto e não 
 mas ressaltamos a **proibição** da comercialização deste material, sob a licença [_Creative Commons BY-NC-SA 3.0 BR_](https://creativecommons.org/licenses/by-nc-sa/3.0/br/).
 
 <img src="https://mirrors.creativecommons.org/presskit/buttons/88x31/png/by-nc-sa.png" alt="" width="200">
+
+#### Regras de negócio 
   
 #### Checklist Features
 
